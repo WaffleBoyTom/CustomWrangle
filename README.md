@@ -4,6 +4,6 @@ Custom Wrangle HDA that displays in the network the attributes and groups you cr
 
 demo = https://www.youtube.com/watch?v=jCIna2R1pVk
 
-THIS HDA IS CURRENTLY BUGGED AS IT CANT HANDLE THE CREATION OF SPARE PARMS 
+Build #2
 
-FIX COMING
+now supports spare parm creation
